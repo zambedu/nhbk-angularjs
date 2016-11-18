@@ -1,0 +1,3 @@
+[submodule "app/flows"]
+	path = app/flows
+	url = https://github.com/zambedu/flows.git
