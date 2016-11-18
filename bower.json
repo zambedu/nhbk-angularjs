@@ -1,0 +1,26 @@
+{
+  "name": "bcp-hbk",
+  "description": "BCP Home banking",
+  "version": "0.0.1",
+  "license": "Everis SAC",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "angular": "^1.4.x",
+    
+    "ngstorage": "0.3.4",
+    "bootstrap": "^3.3.0",
+    "angular-bootstrap": "~0.13.0",
+    "angular-translate": "~2.7.2",
+	"angucomplete-alt": "^2.4.1"
+  },
+  "resolutions": {
+    "angular": "~1.4.x"
+  },
+  "ignore": [
+    "CHANGELOG.md",
+    "components",
+    "node_modules",
+    ".travis.yml"
+  ]
+}
